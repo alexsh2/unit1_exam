@@ -25,17 +25,21 @@
 6. После окончания отработки цикла, в терминал выводится сообщение *"Создан массив строк: <array>"*, для чего задействуется метод **_string PrintArray(string[] arr)_**;
 7. Для формирования массива, состоящего из строк длиной не более 3-х символов, используется метод **_string[] FormArray(string[] arr)_**;
 8. В терминал выводится сообщение *_"Сформирован массив из строк длиной не более 3 символов: <array>"_*;
-9. В случае, когда первоначальный массив не содержит строки, удовлетворяющие условию задачи, выводится сообщение "В созданном массиве отсутствуют строки длиной не более 3 символов: []".
+9. В случае, когда первоначальный массив не содержит строки, удовлетворяющие условию задачи, выводится сообщение *_"В созданном массиве отсутствуют строки длиной не более 3 символов: []"_*.
 
 ## Снимки экрана
 1. Некорректный ввод количества строк:
-![Invalid input of a strings number](images/invalid_input.png)
+
+    ![Invalid input of a strings number](images/invalid_input.png)
 
 2. Ввод пустых строк:
-![Blank strings input](images/blank_strings.png)
+
+    ![Blank strings input](images/blank_strings.png)
 
 3. Ввод корректных значений:
-![Valid values input](images/valid_strings.png)
+
+    ![Valid values input](images/valid_strings.png)
 
 4. Первоначальный массив содержит строки длиной более 3-х символов:
-![All strings in original array are of length greater than 3 characters](images/long_strings.png)
+
+    ![All strings in original array are of length greater than 3 characters](images/long_strings.png)
