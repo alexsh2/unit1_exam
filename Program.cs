@@ -31,7 +31,7 @@ if (number > 0)
     }
     else
     {
-        Console.WriteLine($"В созданном массиве отсутствуют строки длиной не более 3 символов: {PrintArray(resultArray)}");
+        Console.WriteLine($"В созданном массиве отсутствуют строки длиной не более 3 символов: []");
         Console.WriteLine();
     }
 }
