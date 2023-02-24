@@ -30,9 +30,12 @@
 ## Снимки экрана
 1. Некорректный ввод количества строк:
 ![Invalid input of a strings number](images/invalid_input.png)
+
 2. Ввод пустых строк:
 ![Blank strings input](images/blank_strings.png)
+
 3. Ввод корректных значений:
 ![Valid values input](images/valid_strings.png)
+
 4. Первоначальный массив содержит строки длиной более 3-х символов:
 ![All strings in original array are of length greater than 3 characters](images/long_strings.png)
